@@ -12,9 +12,9 @@ The final output answers: **how was PPP financial aid distributed across states,
 
 | File | Description |
 |---|---|
-| `PPP_Data_Engineering_Analysis.ipynb` | Full pipeline: data type optimization, column selection, random sampling & merging of all PPP files, data cleaning, EDA, and population-normalized analysis |
-| `PPP_Data_Engineering_Report.pdf` | Written report with all figures, tables, methodology, and conclusions |
-| `Assignment_Description.pdf` | Original homework assignment/task description |
+| `PPP_Covid_Relief_Data_Engineering_Code_Analysis.ipynb` | Full pipeline: data type optimization, column selection, random sampling & merging of all PPP files, data cleaning, EDA, and population-normalized analysis |
+| `PPP_Covid_Relief_Data_Engineering_Report.pdf` | Written report with all figures, tables, methodology, and conclusions |
+| `PPP_Covid_Relief_Project_Description` | Original homework assignment/task description |
 
 ## Methodology
 
